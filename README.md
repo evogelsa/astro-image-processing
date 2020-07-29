@@ -64,11 +64,11 @@ green channel, and b for the blue channel.
 
 ### Messier 20 | Trifid Nebula | R, V, B
 
-![trifid tweak](./Trifid/trifid_tweak.jpg)
+![trifid tweak](./Trifid/Trifid_tweak.jpg)
 
 ### Messier 20 | Trifid Nebula | H-alpha, [OIII], B
 
-![trifid false](./Trifid/trifid_false_tweak.jpg)
+![trifid false](./Trifid/Trifid_false_tweak.jpg)
 
 ### Messier 27 | Dumbbell Nebula | R, V, B
 
