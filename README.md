@@ -90,5 +90,4 @@ More processed images available in the Github repository.
 
 ## References
 
-All image data taken from [WIYN 0.9m Telescope]
-(https://iu.instructure.com/courses/1888868/pages/data-from-the-wiyn-0-dot-9m-telescope)
+All image data taken from [WIYN 0.9m Telescope](https://iu.instructure.com/courses/1888868/pages/data-from-the-wiyn-0-dot-9m-telescope)
