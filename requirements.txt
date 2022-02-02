@@ -1,4 +1,4 @@
-easygui==0.98.1
-numpy==1.18.2
-opencv_python==4.2.0.34
-Pillow==8.1.1
+easygui==0.98.2
+numpy==1.22.1
+opencv-python==4.5.5.62
+Pillow==9.0.0
